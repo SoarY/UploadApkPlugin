@@ -8,6 +8,7 @@ plugins {
 
 buildscript {
     dependencies {
+        //classpath("com.github.SoarY:UploadApkPlugin:1.0.0")
         //classpath("com.soarsy.plugin:uploadapkplugin:1.0.0")
     }
 }

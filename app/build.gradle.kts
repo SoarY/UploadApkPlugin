@@ -2,7 +2,7 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
-//    id("com.soarsy.uploadapkplugin")
+    //id("com.soarsy.uploadapkplugin")
 }
 
 android {
@@ -43,7 +43,7 @@ android {
 
 //UploadApk {
 //    uploadBuildType="debug"
-//    apiKey = "6b418b6d4509ad3350dc72ea37c755d0"
+//    apiKey = ""
 //}
 
 dependencies {

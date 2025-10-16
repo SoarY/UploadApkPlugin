@@ -9,6 +9,9 @@ open class UploadApkExtension {
      * (必填)值为debug、release等buildTypes
      */
     var uploadBuildType: String? = null
+    /**
+     * (必填)蒲公英后台apiKey
+     */
     var apiKey: String? = null
 
     companion object {
