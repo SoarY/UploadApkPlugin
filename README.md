@@ -30,4 +30,4 @@ UploadApk {
 ```
 
 #### Step 2.执行
-![示例](https://github.com/SoarY/UploadApkPlugin/blob/master/file/log.png?raw=true)
+![示例](https://github.com/SoarY/UploadApkPlugin/blob/main/file/log.png?raw=true)
